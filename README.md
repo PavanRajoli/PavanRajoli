@@ -118,13 +118,29 @@ E --> F[Business Insights];
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PavanRajoli&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanRajoli&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+</div>
 
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=PavanRajoli&theme=tokyonight&hide_border=true"/>
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PavanRajoli&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PavanRajoli&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
